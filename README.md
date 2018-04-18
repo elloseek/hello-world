@@ -1,2 +1,4 @@
 # hello-world
-just a test repo
+Hello peoples,
+Just starting out with Javascript and git.
+Nothing really to see here.
